@@ -14,7 +14,7 @@ const log = message => {
 };
 
 client.on("ready", () => {
-  client.user.setGame(prefix + "LeaderBot Hediye Version") 
+  client.user.setGame(prefix + "ABK Bot Hizmet") 
   console.log("Bağlandım!")   
 });
 
